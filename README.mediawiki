@@ -834,6 +834,13 @@ users (see also: [https://en.bitcoin.it/wiki/Economic_majority economic majority
 | Pyth
 | Specification
 | Draft
+|-
+| [[bip-0139.md|139]]
+| Applications
+| Wallet Metadata Export Format
+| Pyth
+| Specification
+| Draft
 |- style="background-color: #ffcfcf"
 | [[bip-0140.mediawiki|140]]
 | Consensus (soft fork)
@@ -1328,7 +1335,7 @@ users (see also: [https://en.bitcoin.it/wiki/Economic_majority economic majority
 | [[bip-0375.mediawiki|375]]
 | Applications
 | Sending Silent Payments with PSBTs
-| Andrew Toth, Ava Chow, josibake
+| Andrew Toth, Ava Chow, josibake, macgyver
 | Specification
 | Draft
 |-
@@ -1444,6 +1451,13 @@ users (see also: [https://en.bitcoin.it/wiki/Economic_majority economic majority
 | Specification
 | Draft
 |-
+| [[bip-0394.mediawiki|394]]
+| Applications
+| rawtr() Output Script Descriptors
+| jeanpablojp
+| Specification
+| Draft
+|-
 | [[bip-0431.mediawiki|431]]
 | Applications
 | Topology Restrictions for Pinning
@@ -1525,6 +1539,27 @@ users (see also: [https://en.bitcoin.it/wiki/Economic_majority economic majority
 | Applications
 | Dust UTXO Disposal Protocol
 | bubb1es, haris
+| Specification
+| Draft
+|-
+| [[bip-0458.mediawiki|458]]
+| Applications
+| Half-Aggregation of BIP 340 Signatures
+| Tim Ruffing, Jonas Nick, Fabian Jahr
+| Specification
+| Draft
+|-
+| [[bip-0459.mediawiki|459]]
+| Applications
+| DahLIAS fully aggregated signatures for secp256k1
+| Fabian Jahr
+| Specification
+| Draft
+|-
+| [[bip-0460.mediawiki|460]]
+| Consensus (soft fork)
+| CISA for Taproot Key Path Spends in SegWit v2
+| Fabian Jahr
 | Specification
 | Draft
 |-
